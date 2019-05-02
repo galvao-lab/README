@@ -5,11 +5,12 @@
 
 This is an org created to be a hub of repositories that aren't necessarily projects. They are ideas, experiments, tests, unconventional codes, etc... 
 
-It's a sort of sandbox of things I play with. They might become something in the future or they might just sit here "forever" :simple_smile:
+It's a sort of sandbox of things I play with. They might become something in the future or they might just sit here "forever".
 
 Available repos:
 
 * [TicTacToe](https://github.com/galvao-lab/tictactoe) - A pure HTML-CSS-JS implementation of a Tic Tac Toe game
+* [Odd or Even](https://github.com/galvao-lab/oddOrEven) - A pure HTML-CSS-JS implementation of a Odd or Even game
 
 ## Who?!
 
@@ -19,7 +20,7 @@ My name is [Er Galvao Abbott](https://www.galvao.eti.br). I'm a 25+ years progra
 
 You may pretty much do whatever you want with them as long as you give me the proper credit (see about the license below).
 
-Please enjoy and happy coding! :simple_smile:
+Please enjoy and happy coding!
 
 ## License
 
